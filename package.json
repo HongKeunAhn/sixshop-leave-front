@@ -1,0 +1,22 @@
+{
+  "name": "sixshop-leave-front",
+  "version": "1.0.0",
+  "description": "식스샵 휴가 프로젝트",
+  "main": "index.js",
+  "scripts": {
+    "test": "leave"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HongKeuni/sixshop-leave-front.git"
+  },
+  "author": "hongkeun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HongKeuni/sixshop-leave-front/issues"
+  },
+  "homepage": "https://github.com/HongKeuni/sixshop-leave-front#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
